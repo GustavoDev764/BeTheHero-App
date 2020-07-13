@@ -2,10 +2,6 @@
     <img alt="DevRadar" title="#delicinha" src="./bethehero.png" width="200px" />
 </h1>
 
-<h4 align="center">
-  🚀 Semana OmniStack 11.0
-</h4>
-
 <br>
 
 <p align="center">
